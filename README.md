@@ -7,3 +7,4 @@ Concise reference copy for public sharing.
 
 ## Notes
 Personal names are intentionally omitted.
+
